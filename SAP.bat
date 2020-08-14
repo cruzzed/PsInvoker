@@ -1,1 +1,0 @@
-"\\cobalt\Installers\IT\SAP\SAPGUI 750\SAP_GUI.exe"
